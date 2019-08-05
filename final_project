@@ -2,11 +2,15 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>My Final Project</title>
+  <title>final_project</title>
   </head>
 <body>
 
-
+  <div class="jumbotron">
+    <center>
+      My Final Project
+      </center>
+      </div>
 
 </body>
 </html>
